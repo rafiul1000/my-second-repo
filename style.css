@@ -4,6 +4,9 @@ div{
 h2{
     text-align: center;
     font-size: 30px;
-    color: red;
+    color: #acacac;
     padding: 10px;
+}
+p{
+    text-align: justify;
 }
